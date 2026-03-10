@@ -11,7 +11,7 @@ I am a PhD candidate in Economics at the University of Maryland, College Park. M
 
 Contact: andreav [at] umd.edu
 
-[Curriculum Vitae](/files/CV_Andrea_Vilchez_Spring2026.pdf) \
+[Curriculum Vitae](/files/CV_Andrea_Vilchez_Spring2026.pdf)
 
 ## Working Papers
 
