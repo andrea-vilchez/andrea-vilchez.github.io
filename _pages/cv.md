@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 [Curriculum Vitae](/files/CV_Andrea_Vilchez.pdf) 
   
