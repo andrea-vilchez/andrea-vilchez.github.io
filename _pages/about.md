@@ -16,8 +16,9 @@ Contact: andreav [at] umd.edu
 
 ## Working Papers
 
-1. **The Financial Channel of Exchange Rate and U.S. Monetary Shock Transmission**  
+- **The Financial Channel of Exchange Rate and U.S. Monetary Shock Transmission**  
    Job market paper.
 
 
 ## Publications
+-  "Does financial sector development affect the growth gains from trade openness" with N.R. Ramírez-Rondán and Marco E. Terrones. Review of World Economics, 156, 475–515 (2020).
