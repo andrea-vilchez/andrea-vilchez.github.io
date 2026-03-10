@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/assets/images/andrea-vilchez.jpg" alt="Andrea Vilchez" width="220">
+<img src="/images/andrea-vilchez.jpg" alt="Andrea Vilchez" width="220">
 
 I am a PhD candidate in Economics at the University of Maryland, College Park. My research focuses on international finance, macroeconomics, and international trade, with particular interest in exchange rate transmission, firm balance sheets, and financial frictions.
 
