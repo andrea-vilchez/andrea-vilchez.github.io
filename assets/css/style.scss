@@ -1,0 +1,78 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-wrap {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 3rem;
+}
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.site-brand a {
+  color: #111827;
+  text-decoration: none;
+  font-size: 1.45rem;
+  font-weight: 700;
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.site-nav a {
+  color: #374151;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+.page-content {
+  margin-top: 0.5rem;
+}
+
+/* homepage image + text */
+.intro-row {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.intro-photo {
+  width: 220px;
+  height: auto;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.intro-text {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .site-header,
+  .intro-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .site-nav {
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+}
