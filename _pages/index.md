@@ -24,9 +24,7 @@ redirect_from:
 [Curriculum Vitae](/files/CV_Andrea_Vilchez_Spring2026.pdf)
 
 
-
 ## Working Papers
-
 - **The Financial Channel of Exchange Rate and U.S. Monetary Shock Transmission**  
    Job market paper. Draft available upon request.<br>
 
