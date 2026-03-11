@@ -16,13 +16,11 @@ redirect_from:
 
     <p>
       Contact: andreav [at] umd.edu<br>
-      <a href="{{ '/teaching/' | relative_url }}">Teaching</a> |
-      <a href="{{ '/cv/' | relative_url }}">CV</a>
     </p>
   </div>
 </div>
 
-Contact: andreav [at] umd.edu
+
 
 [Curriculum Vitae](/files/CV_Andrea_Vilchez_Spring2026.pdf)
 
