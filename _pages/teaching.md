@@ -10,33 +10,33 @@ I have nearly 12 years of teaching experience, as an instructor or as a teaching
 ## Department of Economics, University of Maryland
 
 ### Lecturer, Undergraduate Level
-- **ECON 306**: Intermediate Microeconomic Theory & Policy. 
+- **ECON 306**: Intermediate Microeconomic Theory & Policy<br> 
   Summer 2024, Winter 2025.
 
 ### Teaching Assistant, Graduate Level
-- **ECON 684**: Applied Time Series Analysis and Forecasting  
+- **ECON 684**: Applied Time Series Analysis and Forecasting<br>   
   Summer 2025
-- **ECON 644**: Empirical Analysis II: Introduction to Economic Models  
+- **ECON 644**: Empirical Analysis II: Introduction to Economic Models<br>   
   Winter 2024, Winter 2025, Summer 2025
-- **ECON 643**: Empirical Analysis I: Foundations of Empirical Research  
+- **ECON 643**: Empirical Analysis I: Foundations of Empirical Research<br>   
   Spring 2025
-- **ECON 672**: Program Analysis and Evaluation  
+- **ECON 672**: Program Analysis and Evaluation<br>   
   Spring 2023, Spring 2024
-- **ECON 645**: Empirical Analysis III: Econometric Modeling and Forecasting  
+- **ECON 645**: Empirical Analysis III: Econometric Modeling and Forecasting<br>   
   Fall 2023
-- **ECON 683**: International Macroeconomics and Finance  
+- **ECON 683**: International Macroeconomics and Finance<br>   
   Spring 2023
-- **ECON 642**: Topics in Applied Macroeconomics  
+- **ECON 642**: Topics in Applied Macroeconomics<br>   
   Fall 2022, Winter 2023, Summer 2023, Winter 2024, Summer 2025
-- **ECON 677**: International Trade and Applications  
+- **ECON 677**: International Trade and Applications<br>   
   Winter 2023
-- **ECON 670**: Financial Economics   
+- **ECON 670**: Financial Economics<br>    
   Fall 2022, Fall 2023
 
   ### Teaching Assistant, Undergraduate Level
-- **ECON 306**: Intermediate Microeconomic Theory & Policy  
+- **ECON 306**: Intermediate Microeconomic Theory & Policy<br>   
   Spring 2024
-- **ECON 325**: Intermediate Macroeconomic Analysis  
+- **ECON 325**: Intermediate Macroeconomic Analysis<br>   
   Spring 2026
 
 
