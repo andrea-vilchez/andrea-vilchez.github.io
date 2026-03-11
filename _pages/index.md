@@ -19,7 +19,7 @@ redirect_from:
     </p>
     <p>
     [Curriculum Vitae](/files/CV_Andrea_Vilchez_Spring2026.pdf)
-     </p>
+    </p>
   </div>
 </div>
 
