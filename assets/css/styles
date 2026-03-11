@@ -1,0 +1,50 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.site-nav {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.site-nav a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.intro-row {
+  display: flex;
+  align-items: center;   /* this centers text vertically against the image */
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.intro-photo {
+  width: 220px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.intro-text {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .site-header,
+  .intro-row {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
