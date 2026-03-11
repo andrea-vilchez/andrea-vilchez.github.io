@@ -38,7 +38,9 @@ I have nearly 12 years of teaching experience, as an instructor or as a teaching
   Spring 2024
 - **ECON 325**: Intermediate Macroeconomic Analysis  
   Spring 2026
+</p>
 
+<p>
 ## Department of Economics, Universidad del Pacífico, Lima, Peru
 
 ### Lecturer, Undergraduate Level
