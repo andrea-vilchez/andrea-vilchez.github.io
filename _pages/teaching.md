@@ -7,6 +7,8 @@ author_profile: true
 
 I have nearly 12 years of teaching experience, as an instructor or as a teaching assistant, at Universidad del Pacífico (Lima, Peru) and the University of Maryland, College Park.
 
+<div style="margin-top: 2rem;"></div>
+
 ## Department of Economics, University of Maryland
 
 ### Lecturer, Undergraduate Level
@@ -33,11 +35,11 @@ I have nearly 12 years of teaching experience, as an instructor or as a teaching
 ## Department of Economics, Universidad del Pacífico, Lima, Peru
 
 ### Lecturer, Undergraduate Level
-- **Applied Statistics**  
+- Applied Statistics  
 
 ### Teaching Assistant, Undergraduate Level
-- **Mathematics IV**  
-- **General Economics II**  
-- **Macroeconomics I**
-- **Macroeconomics II**  
+- Mathematics IV  
+- General Economics II  
+- Macroeconomics I
+- Macroeconomics II 
 
