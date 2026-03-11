@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-## Working in progress
+## Work in progress
 - **The Financial Channel of Exchange Rate and U.S. Monetary Shock Transmission**  
    Job market paper. Draft available upon request.<br>
    <div style="font-size: 0.95rem;text-align: justify;">
