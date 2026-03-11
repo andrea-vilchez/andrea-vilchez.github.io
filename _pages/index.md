@@ -12,7 +12,7 @@ redirect_from:
 
   <div class="intro-text">
     <p>I am a PhD candidate in Economics at the University of Maryland, College Park.<br>
-      My research focuses on international finance, macroeconomics, and international trade, with particular interest in exchange rate transmission, firm balance sheets, and financial frictions.<br>
+      My research focuses on international finance, macroeconomics, and international trade.<br>
       I was previously a Research Fellow at the Research Department of the Inter-American Development Bank. </p>
     <p>
     <strong>Contact:</strong> andreav [at] umd.edu<br>
