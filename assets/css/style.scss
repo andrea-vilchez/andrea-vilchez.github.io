@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-  font-size: 17px;   /* all regular text */
+  font-size: 19px;   /* all regular text */
 }
 
 h1 {
@@ -37,7 +37,7 @@ h3 {
 .site-brand a {
   color: #111827;
   text-decoration: none;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-weight: 700;
 }
 
@@ -50,7 +50,7 @@ h3 {
 .site-nav a {
   color: #374151;
   text-decoration: none;
-  font-size: 1.05rem;
+  font-size: 1.2rem;
   font-weight: 500;
 }
 
@@ -67,11 +67,11 @@ h3 {
   display: flex;
   align-items: center;
   gap: 2rem;
-  margin: 1.5rem 0 2rem;
+  margin: 1.6rem 0 2rem;
 }
 
 .intro-photo {
-  width: 280px;
+  width: 290px;
   height: auto;
   border-radius: 9px;
   flex-shrink: 0;
@@ -79,7 +79,7 @@ h3 {
 
 .intro-text {
   flex: 1;
-  font-size: 1.1rem; /* text next to the photo */
+  font-size: 1.3rem; /* text next to the photo */
 }
 
 @media (max-width: 768px) {
