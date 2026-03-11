@@ -27,7 +27,7 @@ I have nearly 12 years of teaching experience, as an instructor or as a teaching
   ### Teaching Assistant, Undergraduate Level
 - **ECON 306**: Intermediate Microeconomic Theory & Policy   
 - **ECON 325**: Intermediate Macroeconomic Analysis   
-
+<div style="margin-top: 2rem;"></div>
 ## Department of Economics, Universidad del Pacífico, Lima, Peru
 
 ### Lecturer, Undergraduate Level
