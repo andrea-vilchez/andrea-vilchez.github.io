@@ -3,6 +3,34 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-size: 17px;   /* all regular text */
+}
+
+.site-brand a {
+  font-size: 1.6rem; /* "Andrea Vilchez" in header */
+}
+
+.site-nav a {
+  font-size: 1rem;   /* Teaching / CV tabs */
+}
+
+.intro-text {
+  font-size: 1.05rem; /* text next to the photo */
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
 .page-wrap {
   max-width: 980px;
   margin: 0 auto;
