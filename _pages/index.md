@@ -17,12 +17,10 @@ redirect_from:
     <p>
       Contact: andreav [at] umd.edu<br>
     </p>
-    <p>
-    [Curriculum Vitae](/files/CV_Andrea_Vilchez_Spring2026.pdf)
-    </p>
   </div>
 </div>
 
+[Curriculum Vitae](/files/CV_Andrea_Vilchez_Spring2026.pdf)
 
 
 
