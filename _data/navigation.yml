@@ -1,9 +1,7 @@
 main:
   - title: "Research"
-    url: /research/
-
+    url: /
   - title: "Teaching"
     url: /teaching/
-
   - title: "CV"
-    url: /files/CV_Andrea_Vilchez_Spring2026.pdf
+    url: /cv/
