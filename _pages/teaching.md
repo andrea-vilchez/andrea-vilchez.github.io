@@ -30,7 +30,7 @@ I have nearly 12 years of teaching experience, as an instructor or as a teaching
   Fall 2022, Winter 2023, Summer 2023, Winter 2024, Summer 2025
 - **ECON 677**: International Trade and Applications  
   Winter 2023
-- **ECON 670**: Financial Economics  
+- **ECON 670**: Financial Economics   
   Fall 2022, Fall 2023
 
   ### Teaching Assistant, Undergraduate Level
