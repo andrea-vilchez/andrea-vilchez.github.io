@@ -20,8 +20,6 @@ redirect_from:
   </div>
 </div>
 
-[Curriculum Vitae](/files/CV_Andrea_Vilchez_Spring2026.pdf)
-
 
 
 ## Working Papers
