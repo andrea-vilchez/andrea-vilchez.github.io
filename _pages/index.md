@@ -11,7 +11,7 @@ redirect_from:
   <img src="{{ '/images/andrea-vilchez.jpg3.jpg' | relative_url }}" alt="Andrea Vilchez" class="intro-photo">
 
   <div class="intro-text">
-    <p>I am a PhD candidate in Economics at the University of Maryland, College Park.<br>
+    <p>I am a PhD candidate in Economics at the University of Maryland, College Park. I was previously a Research Fellow at the Research Department of the Inter-American Development Bank.<br>
       My research focuses on international finance, macroeconomics, and international trade, with particular interest in exchange rate transmission, firm balance sheets, and financial frictions.</p>
   
     <p>
