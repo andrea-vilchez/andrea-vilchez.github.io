@@ -21,9 +21,9 @@ redirect_from:
 </div>
 
 
-<p>
+
 [Curriculum Vitae](/files/CV_Andrea_Vilchez_Spring2026.pdf)
-</p>
+
 
 <p>
 ## Working Papers
@@ -35,3 +35,4 @@ redirect_from:
 <p>
 ## Publications
 -  ["Does financial sector development affect the growth gains from trade openness"](https://link.springer.com/article/10.1007/s10290-019-00369-8) with [N.R. Ramírez-Rondán](https://sites.google.com/site/nramron/) and [Marco E. Terrones](https://www.marcoterrones.com/). Review of World Economics, 156, 475–515 (2020).
+</p>
