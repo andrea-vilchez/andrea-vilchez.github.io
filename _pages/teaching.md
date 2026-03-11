@@ -10,8 +10,8 @@ I have nearly 12 years of teaching experience, as an instructor or as a teaching
 ## Department of Economics, University of Maryland
 
 ### Lecturer, Undergraduate Level
-- **ECON 306**: Intermediate Microeconomic Theory & Policy  
-  Summer 2024, Winter 2025
+- **ECON 306**: Intermediate Microeconomic Theory & Policy. 
+  Summer 2024, Winter 2025.
 
 ### Teaching Assistant, Graduate Level
 - **ECON 684**: Applied Time Series Analysis and Forecasting  
