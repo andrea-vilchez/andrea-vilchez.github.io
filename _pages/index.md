@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="intro-row">
-  <img src="{{ '/images/andrea-vilchez.jpg.jpg' | relative_url }}" alt="Andrea Vilchez" class="intro-photo">
+  <img src="{{ '/images/andrea-vilchez.jpg3.jpg' | relative_url }}" alt="Andrea Vilchez" class="intro-photo">
 
   <div class="intro-text">
     <p>I am a PhD candidate in Economics at the University of Maryland, College Park.<br>
