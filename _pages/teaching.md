@@ -9,7 +9,7 @@ I have nearly 12 years of teaching experience, as an instructor or as a teaching
 
 <div style="margin-top: 2rem;"></div>
 
-## Department of Economics, University of Maryland
+## University of Maryland, College Park
 
 ### Lecturer, Undergraduate Level
 - **ECON 306**: Intermediate Microeconomic Theory & Policy<br> 
@@ -31,7 +31,7 @@ I have nearly 12 years of teaching experience, as an instructor or as a teaching
   
 <div style="margin-top: 2rem;"></div>
 
-## Department of Economics, Universidad del Pacífico, Lima, Peru
+## Universidad del Pacífico, Lima-Peru
 
 ### Lecturer, Undergraduate Level
 - Applied Statistics<br> 
