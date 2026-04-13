@@ -28,7 +28,9 @@ redirect_from:
    <div style="font-size: 0.95rem;text-align: justify;">
   This paper studies how corporate debt currency composition shapes the international transmission of U.S. monetary policy to emerging-market firms. Using quarterly firm-level data and local projections identified with high-frequency U.S. monetary policy surprises, I show that investment declines more after a U.S. tightening for firms with higher USD-debt shares, even after controlling for standard balance-sheet measures and their interactions with the shock. The contraction is significantly smaller for foreign-oriented firms, consistent with a natural revenue hedge. To interpret these facts, I develop a quantitative small open economy model with heterogeneous firms that choose investment, borrowing, and the currency composition of debt. In the model, a U.S. tightening raises state-contingent USD repayment through both interest rate and exchange rate channels, reduces net worth, tightens borrowing capacity, and amplifies investment declines, especially for firms with high net USD exposure and weak hedges. I use the model for counterfactuals and policy analysis.
   </div>
+  <div style="margin-top: 2rem;"></div>
  - **The Institutional Pricing of Markups in Global Credit Markets**
+ - <div style="margin-top: 2rem;"></div>
  - **Sovereign and Corporate Risk under Central Bank Independence**
 <div style="margin-top: 2rem;"></div>
 ## Publication
