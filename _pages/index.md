@@ -30,7 +30,6 @@ redirect_from:
   </div>
   <div style="margin-top: 2rem;"></div>
  - **The Institutional Pricing of Markups in Global Credit Markets**
- - <div style="margin-top: 2rem;"></div>
  - **Sovereign and Corporate Risk under Central Bank Independence**
 <div style="margin-top: 2rem;"></div>
 ## Publication
