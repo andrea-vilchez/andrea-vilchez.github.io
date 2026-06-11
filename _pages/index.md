@@ -22,18 +22,34 @@ redirect_from:
 
 
 
-## Work in progress
-  - **The Financial Channel of Exchange Rate and U.S. Monetary Shock Transmission**  
-     Job market paper. Draft available upon request.<br>
-     <div style="font-size: 0.95rem;text-align: justify;">
-    This paper studies how corporate debt currency composition shapes the international transmission of U.S. monetary policy to emerging-market firms. Using quarterly firm-level data and local projections identified with high-frequency U.S. monetary policy surprises, I show that investment declines more after a U.S. tightening for firms with higher USD-debt shares, even after controlling for standard balance-sheet measures and their interactions with the shock. The contraction is significantly smaller for foreign-oriented firms, consistent with a natural revenue hedge. To interpret these facts, I develop a quantitative small open economy model with heterogeneous firms that choose investment, borrowing, and the currency composition of debt. In the model, a U.S. tightening raises state-contingent USD repayment through both interest rate and exchange rate channels, reduces net worth, tightens borrowing capacity, and amplifies investment declines, especially for firms with high net USD exposure and weak hedges. I use the model for counterfactuals and policy analysis.</div>
-  
-  <div style="margin-top: 2rem;"></div>
-   - **The Institutional Pricing of Markups in Global Credit Markets**
-   
-   - **Sovereign and Corporate Risk under Central Bank Independence**
-<div style="margin-top: 2rem;"></div>
+## Working papers
 
-## Publication
-  -  ["Does financial sector development affect the growth gains from trade openness"](https://link.springer.com/article/10.1007/s10290-019-00369-8) with [N.R. Ramírez-Rondán](https://sites.google.com/site/nramron/) and [Marco E. Terrones](https://www.marcoterrones.com/). Review of World Economics, 156, 475–515 (2020).
+<article class="paper">
+  <p class="eyebrow">Job Market Paper</p>
+  <h3>The Financial Channel of Exchange Rate and U.S. Monetary Shock Transmission</h3>
+  <p class="note">Draft available upon request.</p>
+  <details class="abstract">
+    <summary>Abstract</summary>
+    <div class="abstract-body">
+      <p>This paper studies how corporate debt currency composition shapes the international transmission of U.S. monetary policy to emerging-market firms. Using quarterly firm-level data and local projections identified with high-frequency U.S. monetary policy surprises, I show that investment declines more after a U.S. tightening for firms with higher USD-debt shares, even after controlling for standard balance-sheet measures and their interactions with the shock. The contraction is significantly smaller for foreign-oriented firms, consistent with a natural revenue hedge. To interpret these facts, I develop a quantitative small open economy model with heterogeneous firms that choose investment, borrowing, and the currency composition of debt. In the model, a U.S. tightening raises state-contingent USD repayment through both interest rate and exchange rate channels, reduces net worth, tightens borrowing capacity, and amplifies investment declines, especially for firms with high net USD exposure and weak hedges. I use the model for counterfactuals and policy analysis.</p>
+    </div>
+  </details>
+</article>
 
+<article class="paper">
+  <p class="eyebrow">Work in Progress</p>
+  <h3>The Institutional Pricing of Markups in Global Credit Markets</h3>
+</article>
+
+<article class="paper">
+  <p class="eyebrow">Work in Progress</p>
+  <h3>Sovereign and Corporate Risk under Central Bank Independence</h3>
+</article>
+
+## Publications
+
+<article class="paper">
+  <h3><a href="https://link.springer.com/article/10.1007/s10290-019-00369-8">Does financial sector development affect the growth gains from trade openness?</a></h3>
+  <p class="meta">with <a href="https://sites.google.com/site/nramron/">N. R. Ramírez-Rondán</a> and <a href="https://www.marcoterrones.com/">Marco E. Terrones</a></p>
+  <p class="meta"><em>Review of World Economics</em>, 156, 475–515 (2020)</p>
+</article>
