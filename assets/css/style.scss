@@ -234,3 +234,8 @@ ul.courses li { padding: 0.28rem 0; font-size: 0.97rem; }
   .site-nav { flex-wrap: wrap; gap: 0.75rem; }
   .intro-photo { width: 170px; }
 }
+
+/* Teaching page: indent role subtitles under the university,
+   and course lists under the role */
+.teaching h3 { margin-left: 1.4rem; }
+.teaching ul { margin-left: 2.8rem; }
