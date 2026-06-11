@@ -6,6 +6,13 @@ redirect_from:
   - /resume
 ---
 
-You can view my CV here:
+## Curriculum Vitae
 
-[Curriculum Vitae](/files/CV_Andrea_Vilchez_Spring2026.pdf)
+<a class="btn" href="/files/CV_Andrea_Vilchez_Spring2026.pdf"
+   onclick="gtag('event', 'cv_download', { file_name: 'CV_Andrea_Vilchez_Spring2026.pdf' });">
+  Download CV (PDF)
+</a>
+
+<object class="cv-embed" data="/files/CV_Andrea_Vilchez_Spring2026.pdf" type="application/pdf">
+  <p>Your browser can't display the PDF inline. <a href="/files/CV_Andrea_Vilchez_Spring2026.pdf">Download it here</a>.</p>
+</object>
