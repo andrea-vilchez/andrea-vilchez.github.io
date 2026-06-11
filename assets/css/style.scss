@@ -1,11 +1,29 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/*@import "{{ site.theme }}";
+
+/* Palette: ink #16222E · muted #5A6B7A · accent teal #0E7490 · rule #E3E8EC
+   Type: IBM Plex Sans (body) / IBM Plex Mono (labels) */
+
+:root {
+  --ink: #16222e;
+  --muted: #5a6b7a;
+  --accent: #0e7490;
+  --accent-dark: #0b5c73;
+  --accent-soft: #eef6f8;
+  --rule: #e3e8ec;
+}
 
 body {
-  font-size: 18px;   /* all regular text */
+  font-family: "IBM Plex Sans", -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
+  color: var(--ink);
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
 }
+
 
 h1 {
   font-size: 2rem;
@@ -20,77 +38,199 @@ h3 {
 }
 
 .page-wrap {
-  max-width: 980px;
+  max-width: 800px;
   margin: 0 auto;
-  padding: 2rem 1.25rem 3rem;
+  padding: 1.6rem 1.25rem 3rem;
 }
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+
+/* ---------- header / nav ---------- */
 
 .site-header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  padding-bottom: 1rem;
-  margin-bottom: 2rem;
-  border-bottom: 1px solid #e5e7eb;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  padding-bottom: 1.1rem;
+  margin-bottom: 1.6rem;
+  border-bottom: 1px solid var(--rule);
 }
 
 .site-brand a {
-  color: #111827;
-  text-decoration: none;
-  font-size: 1.8rem;
-  font-weight: 700;
+  color: var(--ink);
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
+.site-brand a:hover { text-decoration: none; color: var(--accent); }
 
-.site-nav {
-  display: flex;
-  align-items: center;
-  gap: 1.4rem;
-}
+.site-nav { display: flex; align-items: center; gap: 1.5rem; }
 
 .site-nav a {
-  color: #374151;
-  text-decoration: none;
-  font-size: 1.2rem;
+  color: var(--muted);
+  font-size: 0.95rem;
   font-weight: 500;
+  padding-bottom: 3px;
+}
+.site-nav a:hover { color: var(--accent); text-decoration: none; }
+.site-nav a[aria-current="page"] {
+  color: var(--ink);
+  border-bottom: 2px solid var(--accent);
 }
 
-.site-nav a:hover {
-  text-decoration: underline;
+/* ---------- headings ---------- */
+
+h1 { font-size: 1.7rem; font-weight: 600; letter-spacing: -0.015em; }
+
+h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 2.2rem 0 0.4rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--rule);
 }
 
-.page-content {
-  margin-top: 0.5rem;
-}
+h3 { font-size: 1.05rem; font-weight: 600; margin: 1.4rem 0 0.4rem; }
 
-/* homepage image + text */
+/* ---------- homepage intro ---------- */
+
 .intro-row {
   display: flex;
   align-items: center;
   gap: 2rem;
-  margin: 1.6rem 0 2rem;
+  margin: 1.4rem 0 1.6rem;
 }
 
 .intro-photo {
-  width: 280px;
+  width: 200px;
   height: auto;
-  border-radius: 9px;
+  border-radius: 10px;
   flex-shrink: 0;
 }
 
-.intro-text {
-  flex: 1;
-  font-size: 1.2rem; /* text next to the photo */
+.intro-text { flex: 1; font-size: 1.02rem; }
+
+.contact-label {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-right: 0.5rem;
 }
 
-@media (max-width: 768px) {
-  .site-header,
-  .intro-row {
-    flex-direction: column;
-    align-items: flex-start;
-  }
+/* ---------- paper entries ---------- */
 
-  .site-nav {
-    flex-wrap: wrap;
-    gap: 0.75rem;
-  }
+.paper {
+  padding: 1.4rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.paper:last-child { border-bottom: none; }
+
+.eyebrow {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 0.45rem;
+}
+
+.paper h3 { margin: 0 0 0.3rem; line-height: 1.4; }
+
+.paper .meta { font-size: 0.92rem; color: var(--muted); margin: 0 0 0.2rem; }
+.paper .note { font-size: 0.92rem; color: var(--muted); font-style: italic; margin: 0.2rem 0 0; }
+
+/* collapsible abstract */
+
+details.abstract { margin-top: 0.7rem; }
+
+details.abstract summary {
+  cursor: pointer;
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--accent);
+  user-select: none;
+}
+details.abstract summary::-webkit-details-marker { display: none; }
+details.abstract summary::before { content: "+"; width: 14px; text-align: center; }
+details.abstract[open] summary::before { content: "\2212"; }
+details.abstract summary:hover { color: var(--accent-dark); }
+
+details.abstract .abstract-body {
+  margin-top: 0.7rem;
+  padding: 1rem 1.25rem;
+  background: var(--accent-soft);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  font-size: 0.93rem;
+  line-height: 1.7;
+}
+details.abstract .abstract-body p { margin: 0; }
+
+/* ---------- teaching ---------- */
+
+.role {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 1.1rem 0 0.4rem;
+}
+
+ul.courses { list-style: none; margin: 0 0 0.5rem; padding: 0; }
+ul.courses li { padding: 0.28rem 0; font-size: 0.97rem; }
+
+.code {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--accent-dark);
+  background: var(--accent-soft);
+  border-radius: 5px;
+  padding: 1px 7px;
+  margin-right: 0.5rem;
+  white-space: nowrap;
+}
+
+/* ---------- CV ---------- */
+
+.btn {
+  display: inline-block;
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: #fff;
+  background: var(--accent);
+  padding: 0.6rem 1.3rem;
+  border-radius: 7px;
+  margin: 1.2rem 0;
+}
+.btn:hover { background: var(--accent-dark); color: #fff; text-decoration: none; }
+
+.cv-embed {
+  width: 100%;
+  height: 75vh;
+  min-height: 480px;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+}
+
+/* ---------- mobile ---------- */
+
+@media (max-width: 768px) {
+  .site-header, .intro-row { flex-direction: column; align-items: flex-start; }
+  .site-nav { flex-wrap: wrap; gap: 0.75rem; }
+  .intro-photo { width: 170px; }
 }
