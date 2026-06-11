@@ -15,7 +15,11 @@ redirect_from:
       My research focuses on international finance, macroeconomics, and international trade.<br>
       Prior to beginning my Ph.D., I worked as a research fellow at the Research Department of the Inter-American Development Bank. </p>
     <p>
-    <strong>Contact:</strong> andreav [at] umd.edu<br>
+    <span class="contact-label">Contact</span>
+    <a href="mailto:andreav@umd.edu">andreav@umd.edu</a>
+    </p>
+    <p class="profile-links">
+     <a href="https://www.linkedin.com/in/andrea-vilchez-econ/">LinkedIn</a>
     </p>
   </div>
 </div>
