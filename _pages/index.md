@@ -11,7 +11,7 @@ redirect_from:
   <img src="{{ '/images/andrea-vilchez.jpg3.jpg' | relative_url }}" alt="Andrea Vilchez" class="intro-photo">
 
   <div class="intro-text">
-    <p>Welcome! I am a PhD candidate in Economics at the University of Maryland, College Park.<br>
+    <p>Welcome! I am a Ph.D. candidate in Economics at the University of Maryland, College Park.<br>
       My research focuses on international finance, macroeconomics, and international trade.<br>
       Prior to beginning my Ph.D., I worked as a research fellow at the Research Department of the Inter-American Development Bank. </p>
     <p>
