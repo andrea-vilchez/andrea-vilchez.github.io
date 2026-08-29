@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching
 
-I have nearly 12 years of teaching experience, as an instructor or as a teaching assistant, at Universidad del Pacífico (Lima, Peru) and the University of Maryland, College Park, MD.
+I have nearly 12 years of teaching experience, as an instructor and as a teaching assistant, at Universidad del Pacífico (Lima, Peru) and the University of Maryland, College Park, MD.
 
 ### University of Maryland, College Park
 
