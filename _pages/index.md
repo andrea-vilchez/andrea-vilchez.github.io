@@ -47,7 +47,7 @@ redirect_from:
 
 
 
-## Published Papers
+## Published papers
 
 <article class="paper">
   <h3><a href="https://link.springer.com/article/10.1007/s10290-019-00369-8">Does financial sector development affect the growth gains from trade openness?</a></h3>
