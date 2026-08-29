@@ -12,7 +12,7 @@ redirect_from:
 
   <div class="intro-text">
     <p>Welcome! I am a Ph.D. candidate in Economics at the University of Maryland, College Park.<br>
-      My research focuses on international finance, macroeconomics, and international trade.</p>
+      My research focuses on international finance, macroeconomics, and international trade.<br>
       Prior to my doctoral studies, I worked as a research fellow at the Research Department of the Inter-American Development Bank and as a research assistant at the Research Center of Universidad del Pacífico. </p>
     <p>
     <span class="contact-label">Contact</span>
