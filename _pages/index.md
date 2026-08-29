@@ -25,11 +25,8 @@ redirect_from:
 </div>
 
 
-
-## Working papers
-
+## Job Market Paper
 <article class="paper">
-  <p class="eyebrow">Job Market Paper</p>
   <h3>The Financial Channel of Exchange Rate and U.S. Monetary Shock Transmission</h3>
   <p class="note">Draft available upon request.</p>
   <details class="abstract">
@@ -40,11 +37,12 @@ redirect_from:
   </details>
 </article>
 
+## Working papers
+
 <article class="paper">
   <p class="eyebrow">Work in Progress</p>
   <h3>The Institutional Pricing of Markups in Global Credit Markets</h3>
 </article>
-
 
 
 ## Published papers
