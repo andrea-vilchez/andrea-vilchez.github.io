@@ -45,15 +45,18 @@ redirect_from:
   <h3>The Institutional Pricing of Markups in Global Credit Markets</h3>
 </article>
 
-<article class="paper">
-  <p class="eyebrow">Work in Progress</p>
-  <h3>Sovereign and Corporate Risk under Central Bank Independence</h3>
-</article>
 
-## Publications
+
+## Published Papers
 
 <article class="paper">
   <h3><a href="https://link.springer.com/article/10.1007/s10290-019-00369-8">Does financial sector development affect the growth gains from trade openness?</a></h3>
   <p class="meta">with <a href="https://sites.google.com/site/nramron/">N. R. Ramírez-Rondán</a> and <a href="https://www.marcoterrones.com/">Marco E. Terrones</a></p>
   <p class="meta"><em>Review of World Economics</em>, 156, 475–515 (2020)</p>
+</article>
+
+## Work in Progress
+
+<article class="paper">
+  <h3>Sovereign and Corporate Risk under Central Bank Independence</h3>
 </article>
