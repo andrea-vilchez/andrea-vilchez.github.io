@@ -40,7 +40,6 @@ redirect_from:
 ## Working papers
 
 <article class="paper">
-  <p class="eyebrow">Work in Progress</p>
   <h3>The Institutional Pricing of Markups in Global Credit Markets</h3>
 </article>
 
