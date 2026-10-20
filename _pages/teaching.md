@@ -5,13 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have nearly 12 years of teaching experience, as an instructor and as a teaching assistant, at Universidad del Pacífico (Lima, Peru) and the University of Maryland, College Park, Maryland.
+My teaching experience spans undergraduate and graduate economics courses at the University of Maryland and Universidad del Pacífico in Lima, Peru. I have served as an instructor of record and teaching assistant in microeconomics, macroeconomics, econometrics, finance, economic forecasting and quantitative methods.
 
 ### University of Maryland, College Park
 
-<p class="role">Lecturer · Undergraduate</p>
+<p class="role">Instructor of Record · Undergraduate</p>
 <ul class="courses">
-  <li><span class="code">ECON 306</span>Intermediate Microeconomic Theory &amp; Policy</li>
+  <li><span class="code">ECON 306</span>Intermediate Microeconomic Theory &amp; Policy <span class="term">(Summer 2024, Winter 2025)</span></li>
 </ul>
 
 <p class="role">Teaching Assistant · Graduate</p>
@@ -35,7 +35,7 @@ I have nearly 12 years of teaching experience, as an instructor and as a teachin
 
 ### Universidad del Pacífico, Lima, Peru
 
-<p class="role">Lecturer · Undergraduate</p>
+<p class="role">Instructor of Record · Undergraduate</p>
 <ul class="courses">
   <li>Applied Statistics</li>
 </ul>
