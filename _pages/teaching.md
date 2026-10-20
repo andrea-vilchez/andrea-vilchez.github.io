@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My teaching experience spans undergraduate and graduate economics courses at the University of Maryland and Universidad del Pacífico in Lima, Peru. I have served as an instructor of record and teaching assistant in microeconomics, macroeconomics, econometrics, finance, economic forecasting and quantitative methods.
+My teaching experience spans undergraduate and graduate courses at the University of Maryland and Universidad del Pacífico in Lima, Peru. I have served as an instructor of record and teaching assistant across a range of topics, including microeconomics, macroeconomics, econometrics, international economics, finance, economic forecasting and quantitative methods.
 
 ### University of Maryland, College Park
 
@@ -14,7 +14,7 @@ My teaching experience spans undergraduate and graduate economics courses at the
   <li><span class="code">ECON 306</span>Intermediate Microeconomic Theory &amp; Policy <span class="term">(Summer 2024, Winter 2025)</span></li>
 </ul>
 
-<p class="role">Teaching Assistant · Graduate</p>
+<p class="role">Teaching Assistant · Graduate (M.S. in Applied Economics)</p>
 <ul class="courses">
   <li><span class="code">ECON 642</span>Topics in Applied Macroeconomics</li>
   <li><span class="code">ECON 643</span>Empirical Analysis I: Foundations of Empirical Research</li>
