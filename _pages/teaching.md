@@ -37,7 +37,7 @@ My teaching experience spans undergraduate and graduate courses at the Universit
 
 <p class="role">Instructor of Record · Undergraduate</p>
 <ul class="courses">
-  <li>Applied Statistics</li>
+  <li>Applied Statistics (Fall 2019)</li>
 </ul>
 
 <p class="role">Teaching Assistant · Undergraduate</p>
